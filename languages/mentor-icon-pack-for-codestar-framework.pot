@@ -1,0 +1,74 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2022-07-29 12:41+0600\n"
+"PO-Revision-Date: 2020-02-06 22:31+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: esc_html__;esc_attr_e;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+
+#: includes/dripicon.php:8
+msgid "Drip Icon"
+msgstr ""
+
+#: includes/eicon.php:8
+msgid "Elementor Icon"
+msgstr ""
+
+#: includes/elegant.php:8
+msgid "Elegant Icon"
+msgstr ""
+
+#: includes/font-awesome.php:8
+msgid "Font Awesome 4.7.0"
+msgstr ""
+
+#: includes/gonzoicon.php:8
+msgid "Gonzo Icon"
+msgstr ""
+
+#: includes/icofont.php:8
+msgid "Icofont"
+msgstr ""
+
+#: includes/iconmonstr.php:8
+msgid "Icon Monstr"
+msgstr ""
+
+#: includes/line-awesome.php:8
+msgid "Line Awesome"
+msgstr ""
+
+#: includes/linearicon.php:8
+msgid "Linear Icon"
+msgstr ""
+
+#: includes/lineicons.php:8
+msgid "Line Icon"
+msgstr ""
+
+#: includes/material-design.php:8
+msgid "Material Design"
+msgstr ""
+
+#: includes/rivolicon.php:8
+msgid "Rivol Icon"
+msgstr ""
+
+#: includes/stroke-7.php:8
+msgid "Stroke 7"
+msgstr ""
+
+#: includes/themify.php:8
+msgid "Themify"
+msgstr ""
